@@ -1,0 +1,1422 @@
+title: Mahiro Icons (v1.0)
+originalAuthor: MileyMouse
+description: Replaces all UI icons for Sora & Roxas with Mahiro Oyama from "Oniichan Ha Oshimai!"
+game: kh2
+specifications: 0
+dependencies: 
+assets:
+#Sora - Default
+- name: remastered\obj\P_EX100.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Agrabah Carpet
+- name: remastered\obj\P_EX100_AL_CARPET.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Valor Form
+- name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Antiform
+- name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Limit Form
+- name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Wisdom Form
+- name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Master Form
+- name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Normal Final Form
+- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Default
+- name: remastered\obj\P_EX100_NM.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Valor Form
+- name: remastered\obj\P_EX100_NM_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Antiform
+- name: remastered\obj\P_EX100_NM_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_HTLF.a.us\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Limit Form
+- name: remastered\obj\P_EX100_NM_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Wisdom Form
+- name: remastered\obj\P_EX100_NM_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Master Form
+- name: remastered\obj\P_EX100_NM_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Halloween Town - Final Form
+- name: remastered\obj\P_EX100_NM_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora SideCar
+- name: remastered\obj\P_EX100_SIDECAR.a.us\-8.png
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_SIDECAR.a.us\-8.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Default
+- name: remastered\obj\P_EX100_TR.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Valor Form
+- name: remastered\obj\P_EX100_TR_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Antiform
+- name: remastered\obj\P_EX100_TR_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_HTLF.a.us\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Limit Form
+- name: remastered\obj\P_EX100_TR_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Wisdom Form
+- name: remastered\obj\P_EX100_TR_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Master Form
+- name: remastered\obj\P_EX100_TR_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Final Form
+- name: remastered\obj\P_EX100_TR_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Tron Version - Lightcycle
+- name: remastered\obj\P_EX100_TR_LIGHTCYCLE.a.us\-8.png
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TR_LIGHTCYCLE.a.us\-8.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Default
+- name: remastered\obj\P_EX100_WI.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Valor Form
+- name: remastered\obj\P_EX100_WI_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Anti Form
+- name: remastered\obj\P_EX100_WI_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_HTLF.a.us\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Limit Form
+- name: remastered\obj\P_EX100_WI_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Wisdom Form
+- name: remastered\obj\P_EX100_WI_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Master Form
+- name: remastered\obj\P_EX100_WI_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Timeless River - Final Form
+- name: remastered\obj\P_EX100_WI_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_WI_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Default
+- name: remastered\obj\P_EX100_XM.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Valor Form
+- name: remastered\obj\P_EX100_XM_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Antiform
+- name: remastered\obj\P_EX100_XM_HTLF.a.us\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_HTLF.a.us\-3.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Limit Form
+- name: remastered\obj\P_EX100_XM_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Wisdom Form
+- name: remastered\obj\P_EX100_XM_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Master Form
+- name: remastered\obj\P_EX100_XM_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora Christmas Town - Final Form
+- name: remastered\obj\P_EX100_XM_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Roxas Default
+- name: remastered\obj\P_EX110.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110.a.us\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Roxas Dual Wield
+- name: remastered\obj\P_EX110_BTLF.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110_BTLF.a.us\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - KH1 Clothes
+- name: remastered\obj\P_EX120.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX120.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Lion Form
+- name: remastered\obj\P_LK100.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_LK100.a.us\-5_alt.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Little Mermaid Form
+- name: remastered\obj\P_LM100.a.us\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_LM100.a.us\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Pooh Minigames? (1)
+- name: remastered\obj\PO07_PLAYER.a.us\-0.png
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\PO07_PLAYER.a.us\-0.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Sora - Pooh Minigames? (2)
+- name: remastered\obj\PO08_PLAYER.a.us\-0.png
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\PO08_PLAYER.a.us\-0.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+### TITLE SCREEN ###
+- name: remastered\menu\us\title.2ld\US_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld2.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\title.2ld\US_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld3.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\title.2ld\US_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld4.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\title.2ld\US_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld5.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\title.2ld\US_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld6.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\title.2ld\US_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld7.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+### BATTLE REPORT ###
+- name: remastered\menu\us\ending.2ld\US_ending_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld2.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\ending.2ld\US_ending_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld3.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\ending.2ld\US_ending_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld4.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\ending.2ld\US_ending_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld5.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\ending.2ld\US_ending_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld6.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\us\ending.2ld\US_ending_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\menu\us\ending.2ld\US_ending_2ld7.png
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
